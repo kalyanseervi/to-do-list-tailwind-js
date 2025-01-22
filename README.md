@@ -21,7 +21,7 @@ A simple and interactive **To-Do List Application** built with **HTML, Tailwind 
 ```  
 
 #### **🖥️ Live Demo**  
-🔗 [GitHub Pages or Netlify Link] (if hosted)  
+🔗 https://kalyanseervi.github.io/to-do-list-tailwind-js
 
 #### **⚡ Technologies Used**  
 - **HTML** – Structure  
