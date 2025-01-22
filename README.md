@@ -31,7 +31,7 @@ A simple and interactive **To-Do List Application** built with **HTML, Tailwind 
 #### **📦 Installation & Usage**  
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/to-do-list-tailwind-js.git
+git clone https://github.com/kalyanseervi/to-do-list-tailwind-js.git
 
 # Open index.html in a browser
 ```
